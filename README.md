@@ -1,2 +1,4 @@
 # hexlet-jest
-tried to use Jest 
+
+tried to use Jest
+command: npx jest
